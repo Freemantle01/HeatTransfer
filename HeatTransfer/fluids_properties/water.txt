@@ -1,0 +1,4 @@
+temperature	thermalConductivity	kinematicViscosity	prandtlNumber
+300	0,612	0,00000086	5,85
+400	0,686	0,000000239	1,39
+500	0,64	0,000000146	0,895

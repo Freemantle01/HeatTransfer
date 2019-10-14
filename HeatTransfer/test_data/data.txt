@@ -1,0 +1,18 @@
+srednica_wewnetrzna_przewodu 0,08
+grubosc_scianki_przewodu 0.004
+srednia_predkosc_cieczy 1
+srednia_temperatura_cieczy 413
+rodzaj_cieczy 0
+konwekcja_wymuszona 0
+wspol_przewodzenia_ciepla_izolacji 0.093
+grubosc_scianki_izolacji 0.03
+temperatura_otoczenia 286
+emisyjnosc_izolacji 2
+dlugosc_przewodu 1,0
+
+*************
+Legenda:
+rodzaj_cieczy 0-woda, 1-olej_silnikowy, 2-gliceryna, 3-izobutan, 4-methanol
+konwekcja_wymuszona 0-mala lepkosc plynu, 1-duza lepkosc plynu, 2-przeplyw prostopadly
+emisyjnosc_izolacji 0-mala(0.3), 1-srednia(0.6), 2-duza(0.9)
+*************
